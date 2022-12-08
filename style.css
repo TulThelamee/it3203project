@@ -42,6 +42,11 @@ header{
     transition: .9s;
     color:#ffcb05;
 }
+.Logo{
+    position:absolute;
+    top: 5%;
+    left: 5%;
+}
 .Ken{
     position: absolute;
     top:50%;
